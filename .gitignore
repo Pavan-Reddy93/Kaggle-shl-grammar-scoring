@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Datasets, competition files, and models (Private/Not to upload)
+*.zip
+*.wav
+*.mp3
+dataset/
+kaggle_official/
+*.csv
+*.pkl
+*.joblib
+
+# Exclude submission candidate files locally generated
+submission_candidate_216.csv
+submission.csv
