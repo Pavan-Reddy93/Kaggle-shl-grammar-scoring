@@ -1,1 +1,0 @@
-The modular pipeline scripts inside src/ contain the complete, functional pipeline executions.

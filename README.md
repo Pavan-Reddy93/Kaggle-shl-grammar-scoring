@@ -53,3 +53,8 @@ features = extract_acoustic_features("path/to/audio.wav")
 
 ## Licensing & Compliance
 All official competition files, raw audio tracks, metadata sheets (`train.csv`, `test.csv`), and submission documents have been deliberately omitted via `.gitignore` to comply with the Kaggle rules and competition distribution protocols.
+
+## Interactive Pipeline Notebook
+You can run and explore the entire model pipeline interactively:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pavan-Reddy93/Kaggle-shl-grammar-scoring/blob/main/notebooks/shl_grammar_scoring_pipeline.ipynb)
